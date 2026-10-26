@@ -9,6 +9,10 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚══════╝
 ```
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=3BE07C&center=true&vCenter=true&width=640&height=50&lines=infraestrutura+%C2%B7+automa%C3%A7%C3%A3o+%C2%B7+IA;Windows+%C2%B7+Linux+%C2%B7+SLES;PowerShell+%C2%B7+Bash+%C2%B7+Azure;SAP+B1+%C2%B7+HANA+%C2%B7+SQL;OpenCode+agents" alt="typing banner" />
+</div>
+
 ```console
 $ whoami
 infraestrutura de TI · automação · sistemas · IA aplicada ao trabalho técnico
